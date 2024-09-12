@@ -1,0 +1,17 @@
+1. Write a algorithm to look for a particular person at a party whose name you know but face you do not.
+    List the name of the person you know for refernce.  
+    Take into account of all the people there.
+    Create a list via piece of paper.
+
+Code for name 
+   public static Person Sam = known name  ("match")
+   public static Person Who is this (Person [(list of name)] room) {
+                 Person known name = Sam;
+                 for (for each person in room) (Person persom : room) {
+                          if {person.name () = knownname() ) { return person; }
+                  }
+                   return null;
+     }
+
+If the person is not at the part return a null value is there is no mtach. 
+ 
